@@ -1,0 +1,7196 @@
+[
+ {
+  "Eng": "people",
+  "Srpski": "ljudi",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "history",
+  "Srpski": "istorija",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "way",
+  "Srpski": "način",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "art",
+  "Srpski": "umetnost",
+  "Eng_len": 3,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "world",
+  "Srpski": "svet",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "information",
+  "Srpski": "informacija",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "map",
+  "Srpski": "mapa",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "two",
+  "Srpski": "dva",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "family",
+  "Srpski": "porodica",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "government",
+  "Srpski": "vlada",
+  "Eng_len": 10,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "health",
+  "Srpski": "zdravlje",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "system",
+  "Srpski": "sistem",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "computer",
+  "Srpski": "računar",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "meat",
+  "Srpski": "meso",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "year",
+  "Srpski": "godina",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "thanks",
+  "Srpski": "hvala",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "music",
+  "Srpski": "muzika",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "person",
+  "Srpski": "osoba",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "reading",
+  "Srpski": "čitanje",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "method",
+  "Srpski": "metoda",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "data",
+  "Srpski": "podaci",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "food",
+  "Srpski": "hrana",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "understanding",
+  "Srpski": "razumevanje",
+  "Eng_len": 13,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "theory",
+  "Srpski": "teorija",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "law",
+  "Srpski": "zakon",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bird",
+  "Srpski": "ptica",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "literature",
+  "Srpski": "književnost",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "problem",
+  "Srpski": "problem",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "software",
+  "Srpski": "softver",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "control",
+  "Srpski": "kontrola",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "knowledge",
+  "Srpski": "znanje",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "power",
+  "Srpski": "snaga",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "ability",
+  "Srpski": "sposobnost",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "economics",
+  "Srpski": "ekonomija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "love",
+  "Srpski": "ljubav",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "internet",
+  "Srpski": "internet",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "television",
+  "Srpski": "televizija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "science",
+  "Srpski": "nauka",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "library",
+  "Srpski": "biblioteka",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "nature",
+  "Srpski": "priroda",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "fact",
+  "Srpski": "činjenica",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "product",
+  "Srpski": "proizvod",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "idea",
+  "Srpski": "ideja",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "temperature",
+  "Srpski": "temperatura",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "investment",
+  "Srpski": "ulaganje",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "area",
+  "Srpski": "oblast",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "society",
+  "Srpski": "društvo",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "activity",
+  "Srpski": "aktivnost",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "story",
+  "Srpski": "priča",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "industry",
+  "Srpski": "industrija",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "media",
+  "Srpski": "medij",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "thing",
+  "Srpski": "stvar",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "oven",
+  "Srpski": "pećnica",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "community",
+  "Srpski": "zajednica",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "definition",
+  "Srpski": "definicija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "safety",
+  "Srpski": "sigurnost",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "quality",
+  "Srpski": "kvalitet",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "development",
+  "Srpski": "razvoj",
+  "Eng_len": 11,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "language",
+  "Srpski": "jezik",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "management",
+  "Srpski": "menadžment",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "player",
+  "Srpski": "igrač",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "variety",
+  "Srpski": "raznolikost",
+  "Eng_len": 7,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "video",
+  "Srpski": "video",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "week",
+  "Srpski": "nedelja",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "security",
+  "Srpski": "sigurnost",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "country",
+  "Srpski": "zemlji",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "exam",
+  "Srpski": "ispit",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "movie",
+  "Srpski": "film",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "organization",
+  "Srpski": "organizacija",
+  "Eng_len": 12,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "equipment",
+  "Srpski": "oprema",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "physics",
+  "Srpski": "fizika",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "analysis",
+  "Srpski": "analiza",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "series",
+  "Srpski": "niz",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "thought",
+  "Srpski": "misao",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "basis",
+  "Srpski": "osnova",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "boyfriend",
+  "Srpski": "dečko",
+  "Eng_len": 9,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "direction",
+  "Srpski": "pravac",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "strategy",
+  "Srpski": "strategija",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "technology",
+  "Srpski": "tehnologija",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "army",
+  "Srpski": "armija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "camera",
+  "Srpski": "kamera",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "freedom",
+  "Srpski": "sloboda",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "paper",
+  "Srpski": "papir",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "environment",
+  "Srpski": "životna sredina",
+  "Eng_len": 11,
+  "Srpski_len": 15
+ },
+ {
+  "Eng": "child",
+  "Srpski": "dete",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "instance",
+  "Srpski": "instanca",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "month",
+  "Srpski": "mesec",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "truth",
+  "Srpski": "istina",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "marketing",
+  "Srpski": "marketing",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "university",
+  "Srpski": "univerzitet",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "writing",
+  "Srpski": "pisanje",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "article",
+  "Srpski": "članak",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "department",
+  "Srpski": "odeljenje",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "difference",
+  "Srpski": "razlika",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "goal",
+  "Srpski": "cilj",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "news",
+  "Srpski": "vesti",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "audience",
+  "Srpski": "publika",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "fishing",
+  "Srpski": "pecanje",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "growth",
+  "Srpski": "rast",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "income",
+  "Srpski": "zarada",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "marriage",
+  "Srpski": "brak",
+  "Eng_len": 8,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "user",
+  "Srpski": "korisnik",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "combination",
+  "Srpski": "kombinacija",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "failure",
+  "Srpski": "neuspeh",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "meaning",
+  "Srpski": "značenje",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "medicine",
+  "Srpski": "lek",
+  "Eng_len": 8,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "philosophy",
+  "Srpski": "filozofija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "teacher",
+  "Srpski": "učitelj",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "communication",
+  "Srpski": "komunikacija",
+  "Eng_len": 13,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "night",
+  "Srpski": "noć",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "chemistry",
+  "Srpski": "hemija",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "disease",
+  "Srpski": "bolest",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "disk",
+  "Srpski": "disk",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "energy",
+  "Srpski": "energija",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "nation",
+  "Srpski": "nacija",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "road",
+  "Srpski": "put",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "role",
+  "Srpski": "uloga",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "soup",
+  "Srpski": "supa",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "advertising",
+  "Srpski": "reklamiranje",
+  "Eng_len": 11,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "location",
+  "Srpski": "lokacija",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "success",
+  "Srpski": "uspeh",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "addition",
+  "Srpski": "dodatak",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "apartment",
+  "Srpski": "stan",
+  "Eng_len": 9,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "education",
+  "Srpski": "obrazovanje",
+  "Eng_len": 9,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "math",
+  "Srpski": "matematika",
+  "Eng_len": 4,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "moment",
+  "Srpski": "trenutak",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "politics",
+  "Srpski": "politika",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "attention",
+  "Srpski": "pažnja",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "decision",
+  "Srpski": "odluka",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "event",
+  "Srpski": "događaj",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "property",
+  "Srpski": "imovina",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "shopping",
+  "Srpski": "kupovina",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "student",
+  "Srpski": "učenik",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "wood",
+  "Srpski": "drvo",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "competition",
+  "Srpski": "konkurencija",
+  "Eng_len": 11,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "distribution",
+  "Srpski": "distribucija",
+  "Eng_len": 12,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "entertainment",
+  "Srpski": "zabava",
+  "Eng_len": 13,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "office",
+  "Srpski": "kancelarija",
+  "Eng_len": 6,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "population",
+  "Srpski": "populacija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "president",
+  "Srpski": "predsednik",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "unit",
+  "Srpski": "jedinica",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "category",
+  "Srpski": "kategorija",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "cigarette",
+  "Srpski": "cigareta",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "context",
+  "Srpski": "kontekst",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "introduction",
+  "Srpski": "uvod",
+  "Eng_len": 12,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "opportunity",
+  "Srpski": "prilika",
+  "Eng_len": 11,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "performance",
+  "Srpski": "performanse",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "driver",
+  "Srpski": "vozač",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "flight",
+  "Srpski": "let",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "length",
+  "Srpski": "dužina",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "magazine",
+  "Srpski": "časopis",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "newspaper",
+  "Srpski": "novine",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "relationship",
+  "Srpski": "odnos",
+  "Eng_len": 12,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "teaching",
+  "Srpski": "učiti",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cell",
+  "Srpski": "ćelija",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "dealer",
+  "Srpski": "diler",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "finding",
+  "Srpski": "nalaz",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "lake",
+  "Srpski": "jezero",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "member",
+  "Srpski": "član",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "message",
+  "Srpski": "poruka",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "phone",
+  "Srpski": "telefon",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "scene",
+  "Srpski": "scena",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "appearance",
+  "Srpski": "izgled",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "association",
+  "Srpski": "udruženje",
+  "Eng_len": 11,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "concept",
+  "Srpski": "koncept",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "customer",
+  "Srpski": "mušterija",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "death",
+  "Srpski": "smrt",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "discussion",
+  "Srpski": "diskusija",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "housing",
+  "Srpski": "stanovanje",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "inflation",
+  "Srpski": "inflacija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "insurance",
+  "Srpski": "osiguranje",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "mood",
+  "Srpski": "raspoloženje",
+  "Eng_len": 4,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "woman",
+  "Srpski": "žena",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "advice",
+  "Srpski": "savet",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "blood",
+  "Srpski": "krv",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "effort",
+  "Srpski": "napor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "expression",
+  "Srpski": "izraz",
+  "Eng_len": 10,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "importance",
+  "Srpski": "važnost",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "opinion",
+  "Srpski": "mišljenje",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "payment",
+  "Srpski": "plaćanje",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "reality",
+  "Srpski": "stvarnost",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "responsibility",
+  "Srpski": "odgovornost",
+  "Eng_len": 14,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "situation",
+  "Srpski": "situacija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "skill",
+  "Srpski": "veština",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "statement",
+  "Srpski": "izjava",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "wealth",
+  "Srpski": "bogatstvo",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "application",
+  "Srpski": "aplikacija",
+  "Eng_len": 11,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "city",
+  "Srpski": "grad",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "county",
+  "Srpski": "okrug",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "depth",
+  "Srpski": "dubina",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "estate",
+  "Srpski": "imanje",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "foundation",
+  "Srpski": "temelj",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "grandmother",
+  "Srpski": "baba",
+  "Eng_len": 11,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "heart",
+  "Srpski": "srce",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "perspective",
+  "Srpski": "perspektiva",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "photo",
+  "Srpski": "slika",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "recipe",
+  "Srpski": "recept",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "studio",
+  "Srpski": "studio",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "topic",
+  "Srpski": "tema",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "collection",
+  "Srpski": "zbirka",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "depression",
+  "Srpski": "depresija",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "imagination",
+  "Srpski": "mašta",
+  "Eng_len": 11,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "passion",
+  "Srpski": "strast",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "percentage",
+  "Srpski": "procenat",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "resource",
+  "Srpski": "resurs",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "setting",
+  "Srpski": "podešavanje",
+  "Eng_len": 7,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "ad",
+  "Srpski": "reklama",
+  "Eng_len": 2,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "agency",
+  "Srpski": "agencija",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "college",
+  "Srpski": "fakultet",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "connection",
+  "Srpski": "veza",
+  "Eng_len": 10,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "criticism",
+  "Srpski": "kritika",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "debt",
+  "Srpski": "dug",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "description",
+  "Srpski": "opis",
+  "Eng_len": 11,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "memory",
+  "Srpski": "pamćenje",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "patience",
+  "Srpski": "strpljenje",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "secretary",
+  "Srpski": "sekretar",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "solution",
+  "Srpski": "rešenje",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "administration",
+  "Srpski": "administracija",
+  "Eng_len": 14,
+  "Srpski_len": 14
+ },
+ {
+  "Eng": "aspect",
+  "Srpski": "aspekt",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "attitude",
+  "Srpski": "stav",
+  "Eng_len": 8,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "director",
+  "Srpski": "direktor",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "personality",
+  "Srpski": "ličnost",
+  "Eng_len": 11,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "psychology",
+  "Srpski": "psihologija",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "recommendation",
+  "Srpski": "preporuka",
+  "Eng_len": 14,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "selection",
+  "Srpski": "izbor",
+  "Eng_len": 9,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "storage",
+  "Srpski": "skladište",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "version",
+  "Srpski": "verzija",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "alcohol",
+  "Srpski": "alkohol",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "argument",
+  "Srpski": "rasprava",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "complaint",
+  "Srpski": "žalba",
+  "Eng_len": 9,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "contract",
+  "Srpski": "ugovor",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "emphasis",
+  "Srpski": "isticanje",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "highway",
+  "Srpski": "autoput",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "loss",
+  "Srpski": "gubitak",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "membership",
+  "Srpski": "članstvo",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "possession",
+  "Srpski": "posedovanje",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "preparation",
+  "Srpski": "priprema",
+  "Eng_len": 11,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "steak",
+  "Srpski": "biftek",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "union",
+  "Srpski": "unija",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "agreement",
+  "Srpski": "dogovor",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "cancer",
+  "Srpski": "rak",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "currency",
+  "Srpski": "valuta",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "employment",
+  "Srpski": "zaposlenost",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "engineering",
+  "Srpski": "inženjerstvo",
+  "Eng_len": 11,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "entry",
+  "Srpski": "ulaz",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "interaction",
+  "Srpski": "interakcija",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "mixture",
+  "Srpski": "mešavina",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "preference",
+  "Srpski": "preferencija",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "region",
+  "Srpski": "region",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "republic",
+  "Srpski": "republika",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "tradition",
+  "Srpski": "tradicija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "virus",
+  "Srpski": "virus",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "actor",
+  "Srpski": "glumac",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "classroom",
+  "Srpski": "učionica",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "delivery",
+  "Srpski": "isporuka",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "device",
+  "Srpski": "uređaj",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "difficulty",
+  "Srpski": "teškoća",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "drama",
+  "Srpski": "drama",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "election",
+  "Srpski": "izbori",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "engine",
+  "Srpski": "motor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "football",
+  "Srpski": "fudbal",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "guidance",
+  "Srpski": "vođenje",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "hotel",
+  "Srpski": "hotel",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "owner",
+  "Srpski": "vlasnik",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "priority",
+  "Srpski": "prioritet",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "protection",
+  "Srpski": "zaštita",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "suggestion",
+  "Srpski": "nagoveštaj",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "tension",
+  "Srpski": "napetost",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "variation",
+  "Srpski": "varijacija",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "anxiety",
+  "Srpski": "anksioznost",
+  "Eng_len": 7,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "atmosphere",
+  "Srpski": "atmosfera",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "awareness",
+  "Srpski": "svesnost",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "bath",
+  "Srpski": "kupka",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bread",
+  "Srpski": "hleb",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "candidate",
+  "Srpski": "kandidat",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "climate",
+  "Srpski": "klima",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "comparison",
+  "Srpski": "poređenje",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "confusion",
+  "Srpski": "zabuna",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "construction",
+  "Srpski": "konstrukcija",
+  "Eng_len": 12,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "elevator",
+  "Srpski": "lift",
+  "Eng_len": 8,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "emotion",
+  "Srpski": "emocija",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "employee",
+  "Srpski": "zaposlen",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "employer",
+  "Srpski": "poslodavac",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "guest",
+  "Srpski": "gost",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "height",
+  "Srpski": "visina",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "leadership",
+  "Srpski": "vođstvo",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "mall",
+  "Srpski": "tržni centar",
+  "Eng_len": 4,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "manager",
+  "Srpski": "menadžer",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "operation",
+  "Srpski": "operacija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "recording",
+  "Srpski": "snimak",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "sample",
+  "Srpski": "uzorak",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "transportation",
+  "Srpski": "transport",
+  "Eng_len": 14,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "cousin",
+  "Srpski": "rođak",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "disaster",
+  "Srpski": "katastrofa",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "editor",
+  "Srpski": "urednik",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "efficiency",
+  "Srpski": "efikasnost",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "excitement",
+  "Srpski": "uzbuđenje",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "extent",
+  "Srpski": "obim",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "feedback",
+  "Srpski": "povratna informacija",
+  "Eng_len": 8,
+  "Srpski_len": 20
+ },
+ {
+  "Eng": "guitar",
+  "Srpski": "gitara",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "homework",
+  "Srpski": "domaći zadatak",
+  "Eng_len": 8,
+  "Srpski_len": 15
+ },
+ {
+  "Eng": "leader",
+  "Srpski": "vođa",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "mom",
+  "Srpski": "mama",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "outcome",
+  "Srpski": "ishod",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "permission",
+  "Srpski": "dozvola",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "presentation",
+  "Srpski": "prezentacija",
+  "Eng_len": 12,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "promotion",
+  "Srpski": "unapređenje",
+  "Eng_len": 9,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "reflection",
+  "Srpski": "odraz",
+  "Eng_len": 10,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "refrigerator",
+  "Srpski": "frižider",
+  "Eng_len": 12,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "revenue",
+  "Srpski": "prihod",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "session",
+  "Srpski": "sednica",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "singer",
+  "Srpski": "pevač",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tennis",
+  "Srpski": "tenis",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "basket",
+  "Srpski": "korpa",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bonus",
+  "Srpski": "bonus",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cabinet",
+  "Srpski": "kabinet",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "childhood",
+  "Srpski": "detinjstvo",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "church",
+  "Srpski": "crkva",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "clothes",
+  "Srpski": "odeća",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "coffee",
+  "Srpski": "kafa",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "dinner",
+  "Srpski": "večera",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "drawing",
+  "Srpski": "crtež",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "hair",
+  "Srpski": "kosa",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "hearing",
+  "Srpski": "sluh",
+  "Eng_len": 7,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "initiative",
+  "Srpski": "inicijativa",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "judgment",
+  "Srpski": "presuda",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "laboratory",
+  "Srpski": "laboratorija",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "measurement",
+  "Srpski": "mera",
+  "Eng_len": 11,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "mode",
+  "Srpski": "režim",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "mud",
+  "Srpski": "blato",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "orange",
+  "Srpski": "narandžasta",
+  "Eng_len": 6,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "poetry",
+  "Srpski": "poezija",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "police",
+  "Srpski": "policija",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "possibility",
+  "Srpski": "mogućnost",
+  "Eng_len": 11,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "procedure",
+  "Srpski": "procedura",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "queen",
+  "Srpski": "kraljica",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "ratio",
+  "Srpski": "odnos",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "restaurant",
+  "Srpski": "restoran",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "satisfaction",
+  "Srpski": "zadovoljstvo",
+  "Eng_len": 12,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "sector",
+  "Srpski": "sektor",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "signature",
+  "Srpski": "potpis",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "significance",
+  "Srpski": "značaj",
+  "Eng_len": 12,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "song",
+  "Srpski": "pesma",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tooth",
+  "Srpski": "zub",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "vehicle",
+  "Srpski": "vozilo",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "volume",
+  "Srpski": "zapremina",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "wife",
+  "Srpski": "supruga",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "accident",
+  "Srpski": "nezgoda",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "airport",
+  "Srpski": "aerodrom",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "arrival",
+  "Srpski": "dolazak",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "assumption",
+  "Srpski": "pretpostavka",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "baseball",
+  "Srpski": "bejzbol",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "chapter",
+  "Srpski": "poglavlje",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "committee",
+  "Srpski": "komisija",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "conversation",
+  "Srpski": "razgovor",
+  "Eng_len": 12,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "database",
+  "Srpski": "baza podataka",
+  "Eng_len": 8,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "enthusiasm",
+  "Srpski": "entuzijazam",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "error",
+  "Srpski": "greška",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "explanation",
+  "Srpski": "objašnjenje",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "farmer",
+  "Srpski": "zemljoradnik",
+  "Eng_len": 6,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "gate",
+  "Srpski": "kapija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "girl",
+  "Srpski": "devojčica",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "hall",
+  "Srpski": "sala",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "historian",
+  "Srpski": "istoričar",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "hospital",
+  "Srpski": "bolnica",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "injury",
+  "Srpski": "povreda",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "instruction",
+  "Srpski": "uputstvo",
+  "Eng_len": 11,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "maintenance",
+  "Srpski": "održavanje",
+  "Eng_len": 11,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "manufacturer",
+  "Srpski": "proizvođač",
+  "Eng_len": 12,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "meal",
+  "Srpski": "obrok",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "perception",
+  "Srpski": "percepcija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "pie",
+  "Srpski": "pita",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "poem",
+  "Srpski": "poema",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "presence",
+  "Srpski": "prisustvo",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "proposal",
+  "Srpski": "predlog",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "reception",
+  "Srpski": "prijem",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "replacement",
+  "Srpski": "zamena",
+  "Eng_len": 11,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "revolution",
+  "Srpski": "revolucija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "river",
+  "Srpski": "reka",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "son",
+  "Srpski": "sin",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "speech",
+  "Srpski": "govor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tea",
+  "Srpski": "čaj",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "village",
+  "Srpski": "selo",
+  "Eng_len": 7,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "warning",
+  "Srpski": "upozorenje",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "winner",
+  "Srpski": "pobednik",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "worker",
+  "Srpski": "radnik",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "writer",
+  "Srpski": "pisac",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "assistance",
+  "Srpski": "pomoć",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "breath",
+  "Srpski": "dah",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "buyer",
+  "Srpski": "kupac",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "chest",
+  "Srpski": "grudi",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "chocolate",
+  "Srpski": "čokolada",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "conclusion",
+  "Srpski": "zaključak",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "contribution",
+  "Srpski": "doprinos",
+  "Eng_len": 12,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "cookie",
+  "Srpski": "kolačić",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "courage",
+  "Srpski": "hrabrost",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "dad",
+  "Srpski": "tata",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "desk",
+  "Srpski": "radni sto",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "drawer",
+  "Srpski": "fioka",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "examination",
+  "Srpski": "pregled",
+  "Eng_len": 11,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "garbage",
+  "Srpski": "smeće",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "groceres",
+  "Srpski": "namirnice",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "honey",
+  "Srpski": "med",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "impression",
+  "Srpski": "utisak",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "improvement",
+  "Srpski": "poboljšanje",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "independence",
+  "Srpski": "nezavisnost",
+  "Eng_len": 12,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "insect",
+  "Srpski": "insekt",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "inspection",
+  "Srpski": "inspekcija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "inspector",
+  "Srpski": "inspektor",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "king",
+  "Srpski": "kralj",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "ladder",
+  "Srpski": "merdevine",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "menu",
+  "Srpski": "meni",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "penalty",
+  "Srpski": "kazna",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "piano",
+  "Srpski": "klavir",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "potato",
+  "Srpski": "krompir",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "profession",
+  "Srpski": "zanimanje",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "professor",
+  "Srpski": "profesor",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "quantity",
+  "Srpski": "količina",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "reaction",
+  "Srpski": "reakcija",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "requirement",
+  "Srpski": "uslov",
+  "Eng_len": 11,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "salad",
+  "Srpski": "salata",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "sister",
+  "Srpski": "sestra",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "tongue",
+  "Srpski": "jezik",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "weakness",
+  "Srpski": "slabost",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "wedding",
+  "Srpski": "venčanje",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "affair",
+  "Srpski": "afera",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "ambition",
+  "Srpski": "ambicija",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "analyst",
+  "Srpski": "analitičar",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "apple",
+  "Srpski": "jabuka",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "assignment",
+  "Srpski": "dodeljivanje",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "assistant",
+  "Srpski": "pomoćnik",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "bathroom",
+  "Srpski": "kupatilo",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "bedroom",
+  "Srpski": "spavaća soba",
+  "Eng_len": 7,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "beer",
+  "Srpski": "pivo",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "birthday",
+  "Srpski": "rođendan",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "celebration",
+  "Srpski": "slavlje",
+  "Eng_len": 11,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "championship",
+  "Srpski": "prvenstvo",
+  "Eng_len": 12,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "cheek",
+  "Srpski": "obraz",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "client",
+  "Srpski": "klijent",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "consequence",
+  "Srpski": "posledica",
+  "Eng_len": 11,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "departure",
+  "Srpski": "odlazak",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "diamond",
+  "Srpski": "dijamant",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "dirt",
+  "Srpski": "prljavština",
+  "Eng_len": 4,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "ear",
+  "Srpski": "uho",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "fortune",
+  "Srpski": "bogatstvo",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "friendship",
+  "Srpski": "prijateljstvo",
+  "Eng_len": 10,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "funeral",
+  "Srpski": "sahrana",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "gene",
+  "Srpski": "gen",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "girlfriend",
+  "Srpski": "devojka",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "hat",
+  "Srpski": "šešir",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "indication",
+  "Srpski": "indikacija",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "intention",
+  "Srpski": "namera",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "lady",
+  "Srpski": "dama",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "midnight",
+  "Srpski": "ponoć",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "negotiation",
+  "Srpski": "pregovaranje",
+  "Eng_len": 11,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "obligation",
+  "Srpski": "obaveza",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "passenger",
+  "Srpski": "putnik",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pizza",
+  "Srpski": "pica",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "platform",
+  "Srpski": "platforma",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "poet",
+  "Srpski": "pesnik",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pollution",
+  "Srpski": "zagađenje",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "recognition",
+  "Srpski": "prepoznavanje",
+  "Eng_len": 11,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "reputation",
+  "Srpski": "ugled",
+  "Eng_len": 10,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "shirt",
+  "Srpski": "košulja",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "sir",
+  "Srpski": "gospodin",
+  "Eng_len": 3,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "speaker",
+  "Srpski": "govornik",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "stranger",
+  "Srpski": "stranac",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "surgery",
+  "Srpski": "hirurgija",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "sympathy",
+  "Srpski": "saosećanje",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "tale",
+  "Srpski": "priča",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "throat",
+  "Srpski": "grlo",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "trainer",
+  "Srpski": "trener",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "uncle",
+  "Srpski": "ujak",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "youth",
+  "Srpski": "mladost",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "time",
+  "Srpski": "vreme",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "work",
+  "Srpski": "rad",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "water",
+  "Srpski": "voda",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "money",
+  "Srpski": "novac",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "example",
+  "Srpski": "primer",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "while",
+  "Srpski": "dok",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "business",
+  "Srpski": "biznis",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "study",
+  "Srpski": "studija",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "game",
+  "Srpski": "igra",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "life",
+  "Srpski": "život",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "form",
+  "Srpski": "forma",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "air",
+  "Srpski": "vazduh",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "day",
+  "Srpski": "dan",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "place",
+  "Srpski": "mesto",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "number",
+  "Srpski": "broj",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "part",
+  "Srpski": "deo",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "field",
+  "Srpski": "polje",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fish",
+  "Srpski": "riba",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "back",
+  "Srpski": "nazad",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "process",
+  "Srpski": "proces",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "heat",
+  "Srpski": "toplota",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "hand",
+  "Srpski": "ruka",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "experience",
+  "Srpski": "iskustvo",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "job",
+  "Srpski": "posao",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "book",
+  "Srpski": "knjiga",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "end",
+  "Srpski": "kraj",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "point",
+  "Srpski": "tačka",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "type",
+  "Srpski": "tip",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "home",
+  "Srpski": "dom",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "economy",
+  "Srpski": "privreda",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "value",
+  "Srpski": "vrednost",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "body",
+  "Srpski": "telo",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "market",
+  "Srpski": "tržište",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "guide",
+  "Srpski": "vodič",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "interest",
+  "Srpski": "interesovanje",
+  "Eng_len": 8,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "state",
+  "Srpski": "stanje",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "radio",
+  "Srpski": "radio",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "course",
+  "Srpski": "kurs",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "company",
+  "Srpski": "kompanija",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "price",
+  "Srpski": "cena",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "size",
+  "Srpski": "veličina",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "card",
+  "Srpski": "kartica",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "list",
+  "Srpski": "lista",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "mind",
+  "Srpski": "um",
+  "Eng_len": 4,
+  "Srpski_len": 2
+ },
+ {
+  "Eng": "trade",
+  "Srpski": "trgovina",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "line",
+  "Srpski": "linija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "care",
+  "Srpski": "nega",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "group",
+  "Srpski": "grupa",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "risk",
+  "Srpski": "rizik",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "word",
+  "Srpski": "reč",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "fat",
+  "Srpski": "salo",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "force",
+  "Srpski": "sila",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "key",
+  "Srpski": "ključ",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "light",
+  "Srpski": "svetlost",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "training",
+  "Srpski": "obuka",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "name",
+  "Srpski": "ime",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "school",
+  "Srpski": "škola",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "top",
+  "Srpski": "vrh",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "amount",
+  "Srpski": "iznos",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "level",
+  "Srpski": "nivo",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "order",
+  "Srpski": "red",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "practice",
+  "Srpski": "praksa",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "research",
+  "Srpski": "istraživanje",
+  "Eng_len": 8,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "sense",
+  "Srpski": "čulo",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "service",
+  "Srpski": "usluga",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "piece",
+  "Srpski": "komad",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "web",
+  "Srpski": "mreža",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "boss",
+  "Srpski": "gazda",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "sport",
+  "Srpski": "sport",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fun",
+  "Srpski": "zabava",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "house",
+  "Srpski": "kuća",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "page",
+  "Srpski": "stranica",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "test",
+  "Srpski": "proba",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "answer",
+  "Srpski": "odgovor",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "sound",
+  "Srpski": "zvuk",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "focus",
+  "Srpski": "fokus",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "matter",
+  "Srpski": "materija",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "kind",
+  "Srpski": "vrsta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "soil",
+  "Srpski": "tlo",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "board",
+  "Srpski": "tabla",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "oil",
+  "Srpski": "ulje",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "picture",
+  "Srpski": "slika",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "access",
+  "Srpski": "pristup",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "garden",
+  "Srpski": "bašta",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "range",
+  "Srpski": "domet",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "rate",
+  "Srpski": "stopa",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "reason",
+  "Srpski": "razlog",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "future",
+  "Srpski": "budućnost",
+  "Eng_len": 6,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "demand",
+  "Srpski": "potražnja",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "exercise",
+  "Srpski": "vežba",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "case",
+  "Srpski": "slučaj",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "cause",
+  "Srpski": "uzrok",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "coast",
+  "Srpski": "obala",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "action",
+  "Srpski": "postupak",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "age",
+  "Srpski": "starost",
+  "Eng_len": 3,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "boat",
+  "Srpski": "čamac",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "record",
+  "Srpski": "zapis",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "result",
+  "Srpski": "rezultat",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "section",
+  "Srpski": "odeljak",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "building",
+  "Srpski": "zgrada",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "mouse",
+  "Srpski": "miš",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "cash",
+  "Srpski": "gotovina",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "class",
+  "Srpski": "klasa",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "nothing",
+  "Srpski": "ništa",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "period",
+  "Srpski": "razdoblje",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "plan",
+  "Srpski": "plan",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "store",
+  "Srpski": "prodavnica",
+  "Eng_len": 5,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "tax",
+  "Srpski": "porez",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "side",
+  "Srpski": "strana",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "subject",
+  "Srpski": "predmet",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "space",
+  "Srpski": "prostor",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "rule",
+  "Srpski": "pravilo",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "stock",
+  "Srpski": "akcija",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "chance",
+  "Srpski": "šansa",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "figure",
+  "Srpski": "figura",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "man",
+  "Srpski": "čovek",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "model",
+  "Srpski": "model",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "source",
+  "Srpski": "izvor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "beginning",
+  "Srpski": "početak",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "earth",
+  "Srpski": "zemlja",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "program",
+  "Srpski": "program",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "chicken",
+  "Srpski": "kokoška",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "design",
+  "Srpski": "dizajn",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "feature",
+  "Srpski": "odlika",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "head",
+  "Srpski": "glava",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "material",
+  "Srpski": "materijal",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "purpose",
+  "Srpski": "svrha",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "question",
+  "Srpski": "pitanje",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "rock",
+  "Srpski": "kamen",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "salt",
+  "Srpski": "so",
+  "Eng_len": 4,
+  "Srpski_len": 2
+ },
+ {
+  "Eng": "act",
+  "Srpski": "delo",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "birth",
+  "Srpski": "rođenje",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "car",
+  "Srpski": "automobil",
+  "Eng_len": 3,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "dog",
+  "Srpski": "pas",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "object",
+  "Srpski": "objekat",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "scale",
+  "Srpski": "razmera",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "sun",
+  "Srpski": "sunce",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "note",
+  "Srpski": "beleška",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "profit",
+  "Srpski": "profit",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "rent",
+  "Srpski": "kirija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "speed",
+  "Srpski": "brzina",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "style",
+  "Srpski": "stil",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "war",
+  "Srpski": "rat",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "bank",
+  "Srpski": "banka",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "craft",
+  "Srpski": "zanat",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "half",
+  "Srpski": "pola",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "inside",
+  "Srpski": "unutra",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "outside",
+  "Srpski": "spolja",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "standard",
+  "Srpski": "standard",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "bus",
+  "Srpski": "bus",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "exchange",
+  "Srpski": "razmena",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "eye",
+  "Srpski": "oko",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "fire",
+  "Srpski": "vatra",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "position",
+  "Srpski": "položaj",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "pressure",
+  "Srpski": "pritisak",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "stress",
+  "Srpski": "stres",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "advantage",
+  "Srpski": "prednost",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "benefit",
+  "Srpski": "korist",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "box",
+  "Srpski": "kutija",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "frame",
+  "Srpski": "ram",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "issue",
+  "Srpski": "problem",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "step",
+  "Srpski": "korak",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cycle",
+  "Srpski": "ciklus",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "face",
+  "Srpski": "lice",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "item",
+  "Srpski": "predmet",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "metal",
+  "Srpski": "metal",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "room",
+  "Srpski": "soba",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "screen",
+  "Srpski": "ekran",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "structure",
+  "Srpski": "struktura",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "view",
+  "Srpski": "pogled",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "account",
+  "Srpski": "nalog",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "ball",
+  "Srpski": "lopta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "discipline",
+  "Srpski": "disciplina",
+  "Eng_len": 10,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "share",
+  "Srpski": "udeo",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "balance",
+  "Srpski": "ravnoteža",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "bottom",
+  "Srpski": "dno",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "choice",
+  "Srpski": "izbor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "gift",
+  "Srpski": "poklon",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "impact",
+  "Srpski": "udar",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "machine",
+  "Srpski": "mašina",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "shape",
+  "Srpski": "oblik",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tool",
+  "Srpski": "alat",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "wind",
+  "Srpski": "vetar",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "address",
+  "Srpski": "adresa",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "average",
+  "Srpski": "prosek",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "career",
+  "Srpski": "karijera",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "culture",
+  "Srpski": "kultura",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "morning",
+  "Srpski": "jutro",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "pot",
+  "Srpski": "ćup",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "sign",
+  "Srpski": "znak",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "table",
+  "Srpski": "sto",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "task",
+  "Srpski": "zadatak",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "condition",
+  "Srpski": "stanje",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "contact",
+  "Srpski": "kontakt",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "credit",
+  "Srpski": "kredit",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "egg",
+  "Srpski": "jaje",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "hope",
+  "Srpski": "nada",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "ice",
+  "Srpski": "led",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "network",
+  "Srpski": "mreža",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "north",
+  "Srpski": "sever",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "square",
+  "Srpski": "kvadrat",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "attempt",
+  "Srpski": "pokušaj",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "date",
+  "Srpski": "datum",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "effect",
+  "Srpski": "efekat",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "star",
+  "Srpski": "zvezda",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "voice",
+  "Srpski": "glas",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "capital",
+  "Srpski": "glavni grad",
+  "Eng_len": 7,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "challenge",
+  "Srpski": "izazov",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "friend",
+  "Srpski": "prijatelj",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "shot",
+  "Srpski": "pucanj",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "brush",
+  "Srpski": "četka",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "couple",
+  "Srpski": "par",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "debate",
+  "Srpski": "debata",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "exit",
+  "Srpski": "izlaz",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "front",
+  "Srpski": "front",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "function",
+  "Srpski": "funkcija",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "lack",
+  "Srpski": "nedostatak",
+  "Eng_len": 4,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "plant",
+  "Srpski": "biljka",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "plastic",
+  "Srpski": "plastika",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "summer",
+  "Srpski": "leto",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "taste",
+  "Srpski": "ukus",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "theme",
+  "Srpski": "tema",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "track",
+  "Srpski": "staza",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "wing",
+  "Srpski": "krilo",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "brain",
+  "Srpski": "mozak",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "button",
+  "Srpski": "dugme",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "click",
+  "Srpski": "klik",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "desire",
+  "Srpski": "želja",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "foot",
+  "Srpski": "stopalo",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "gas",
+  "Srpski": "gas",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "influence",
+  "Srpski": "uticaj",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "notice",
+  "Srpski": "objava",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "rain",
+  "Srpski": "kiša",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "wall",
+  "Srpski": "zid",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "base",
+  "Srpski": "baza",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "damage",
+  "Srpski": "oštećenje",
+  "Eng_len": 6,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "distance",
+  "Srpski": "udaljenost",
+  "Eng_len": 8,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "feeling",
+  "Srpski": "osećaj",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "pair",
+  "Srpski": "par",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "savings",
+  "Srpski": "ušteđevina",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "staff",
+  "Srpski": "osoblje",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "sugar",
+  "Srpski": "šećer",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "target",
+  "Srpski": "metal",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "text",
+  "Srpski": "tekst",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "animal",
+  "Srpski": "životinja",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "author",
+  "Srpski": "autor",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "budget",
+  "Srpski": "budžet",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "discount",
+  "Srpski": "popust",
+  "Eng_len": 8,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "file",
+  "Srpski": "fajl",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "ground",
+  "Srpski": "tlo",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "lesson",
+  "Srpski": "lekcija",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "minute",
+  "Srpski": "minut",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "officer",
+  "Srpski": "oficir",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "phase",
+  "Srpski": "faza",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "reference",
+  "Srpski": "referenca",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "register",
+  "Srpski": "registar",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "sky",
+  "Srpski": "nebo",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "stage",
+  "Srpski": "bina",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "stick",
+  "Srpski": "štap",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "title",
+  "Srpski": "naslov",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "trouble",
+  "Srpski": "nevolja",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "bowl",
+  "Srpski": "činija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "bridge",
+  "Srpski": "most",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "campaign",
+  "Srpski": "kampanja",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "character",
+  "Srpski": "karakter",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "club",
+  "Srpski": "klub",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "edge",
+  "Srpski": "ivica",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "evidence",
+  "Srpski": "dokaz",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fan",
+  "Srpski": "lepeza",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "letter",
+  "Srpski": "pismo",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "lock",
+  "Srpski": "brava",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "maximum",
+  "Srpski": "maksimum",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "novel",
+  "Srpski": "roman",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "option",
+  "Srpski": "opcija",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pack",
+  "Srpski": "pakovanje",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "park",
+  "Srpski": "park",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "plenty",
+  "Srpski": "dosta",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "quarter",
+  "Srpski": "kvartal",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "skin",
+  "Srpski": "koža",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "sort",
+  "Srpski": "vrsta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "weight",
+  "Srpski": "težina",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "baby",
+  "Srpski": "beba",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "background",
+  "Srpski": "pozadina",
+  "Eng_len": 10,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "dish",
+  "Srpski": "jelo",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "factor",
+  "Srpski": "faktor",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "fruit",
+  "Srpski": "voće",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "glass",
+  "Srpski": "staklo",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "master",
+  "Srpski": "majstor",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "muscle",
+  "Srpski": "mišić",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "strength",
+  "Srpski": "snaga",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "traffic",
+  "Srpski": "saobraćaj",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "trip",
+  "Srpski": "putovanje",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "vegetables",
+  "Srpski": "povrće",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "appeal",
+  "Srpski": "žalba",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "chart",
+  "Srpski": "grafikon",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "gear",
+  "Srpski": "zupčanik",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "ideal",
+  "Srpski": "ideal",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "kitchen",
+  "Srpski": "kuhinja",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "land",
+  "Srpski": "zemljište",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "log",
+  "Srpski": "cepanica",
+  "Eng_len": 3,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "mother",
+  "Srpski": "majka",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "party",
+  "Srpski": "žurka",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "principle",
+  "Srpski": "princip",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "relative",
+  "Srpski": "rođak",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "sale",
+  "Srpski": "rasprodaja",
+  "Eng_len": 4,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "season",
+  "Srpski": "godišnje doba",
+  "Eng_len": 6,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "signal",
+  "Srpski": "signal",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "spirit",
+  "Srpski": "duh",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "street",
+  "Srpski": "ulica",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tree",
+  "Srpski": "drvo",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "wave",
+  "Srpski": "talas",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "belt",
+  "Srpski": "pojas",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bench",
+  "Srpski": "klupa",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "commission",
+  "Srpski": "provizija",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "copy",
+  "Srpski": "kopija",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "drop",
+  "Srpski": "kap",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "minimum",
+  "Srpski": "minimum",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "path",
+  "Srpski": "put",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "progress",
+  "Srpski": "napredak",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "project",
+  "Srpski": "projekat",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "sea",
+  "Srpski": "more",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "south",
+  "Srpski": "jug",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "status",
+  "Srpski": "status",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "stuff",
+  "Srpski": "stvari",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "ticket",
+  "Srpski": "ulaznica",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "tour",
+  "Srpski": "obilazak",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "angle",
+  "Srpski": "ugao",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "breakfast",
+  "Srpski": "doručak",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "confidence",
+  "Srpski": "samopouzdanje",
+  "Eng_len": 10,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "daughter",
+  "Srpski": "ćerka",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "degree",
+  "Srpski": "stepen",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "doctor",
+  "Srpski": "doktor",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "dot",
+  "Srpski": "tačka",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "dream",
+  "Srpski": "san",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "duty",
+  "Srpski": "dužnost",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "essay",
+  "Srpski": "esej",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "father",
+  "Srpski": "otac",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "fee",
+  "Srpski": "honorar",
+  "Eng_len": 3,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "hour",
+  "Srpski": "sat",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "juice",
+  "Srpski": "sok",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "limit",
+  "Srpski": "ograničenje",
+  "Eng_len": 5,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "luck",
+  "Srpski": "sreća",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "milk",
+  "Srpski": "mleko",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "mouth",
+  "Srpski": "usta",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "peace",
+  "Srpski": "mir",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "pipe",
+  "Srpski": "cev",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "seat",
+  "Srpski": "sedište",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "stable",
+  "Srpski": "štala",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "storm",
+  "Srpski": "oluja",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "substance",
+  "Srpski": "supstanca",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "team",
+  "Srpski": "tim",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "trick",
+  "Srpski": "trik",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "afternoon",
+  "Srpski": "popodne",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "bat",
+  "Srpski": "šišmiš",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "beach",
+  "Srpski": "plaža",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "catch",
+  "Srpski": "ulov",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "chain",
+  "Srpski": "lanac",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "consideration",
+  "Srpski": "razmatranje",
+  "Eng_len": 13,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "cream",
+  "Srpski": "krem",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "crew",
+  "Srpski": "posada",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "detail",
+  "Srpski": "detalj",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "gold",
+  "Srpski": "zlato",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "interview",
+  "Srpski": "intervju",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "mark",
+  "Srpski": "oznaka",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "match",
+  "Srpski": "utakmica",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "mission",
+  "Srpski": "misija",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pain",
+  "Srpski": "bol",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "pleasure",
+  "Srpski": "zadovoljstvo",
+  "Eng_len": 8,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "score",
+  "Srpski": "rezultat",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "screw",
+  "Srpski": "šaraf",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "shop",
+  "Srpski": "prodavnica",
+  "Eng_len": 4,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "shower",
+  "Srpski": "tuš",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "suit",
+  "Srpski": "odelo",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "tone",
+  "Srpski": "ton",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "window",
+  "Srpski": "prozor",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "agent",
+  "Srpski": "agent",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "block",
+  "Srpski": "blok",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "bone",
+  "Srpski": "kost",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "calendar",
+  "Srpski": "kalendar",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "cap",
+  "Srpski": "kačket",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "coat",
+  "Srpski": "kaput",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "contest",
+  "Srpski": "takmičenje",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "corner",
+  "Srpski": "ćošak",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "court",
+  "Srpski": "sud",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "cup",
+  "Srpski": "čaša",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "district",
+  "Srpski": "okrug",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "door",
+  "Srpski": "vrata",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "east",
+  "Srpski": "istok",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "finger",
+  "Srpski": "prst",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "garage",
+  "Srpski": "garaža",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "guarantee",
+  "Srpski": "garancija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "hole",
+  "Srpski": "rupa",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "hook",
+  "Srpski": "kuka",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "layer",
+  "Srpski": "sloj",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "lecture",
+  "Srpski": "predavanje",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "lie",
+  "Srpski": "laž",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "manner",
+  "Srpski": "manir",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "meeting",
+  "Srpski": "sastanak",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "nose",
+  "Srpski": "nos",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "parking",
+  "Srpski": "parking",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "partner",
+  "Srpski": "partner",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "profile",
+  "Srpski": "profil",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "respect",
+  "Srpski": "poštovanje",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "rice",
+  "Srpski": "pirinač",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "routine",
+  "Srpski": "rutina",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "schedule",
+  "Srpski": "raspored",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "swimming",
+  "Srpski": "plivanje",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "telephone",
+  "Srpski": "telefon",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "tip",
+  "Srpski": "bakšiš",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "winter",
+  "Srpski": "zima",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "airline",
+  "Srpski": "vazdušna linija",
+  "Eng_len": 7,
+  "Srpski_len": 15
+ },
+ {
+  "Eng": "bag",
+  "Srpski": "kesa",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "battle",
+  "Srpski": "bitka",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bed",
+  "Srpski": "krevet",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "bill",
+  "Srpski": "novčanica",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "bother",
+  "Srpski": "smetnja",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "cake",
+  "Srpski": "torta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "code",
+  "Srpski": "kod",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "curve",
+  "Srpski": "kriva",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "designer",
+  "Srpski": "dizajner",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "dimension",
+  "Srpski": "dimenzija",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "dress",
+  "Srpski": "haljina",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "ease",
+  "Srpski": "lakoća",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "emergency",
+  "Srpski": "hitnost",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "evening",
+  "Srpski": "veče",
+  "Eng_len": 7,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "extension",
+  "Srpski": "proširenje",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "farm",
+  "Srpski": "farma",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fight",
+  "Srpski": "borba",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "gap",
+  "Srpski": "jaz",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "grade",
+  "Srpski": "razred",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "holiday",
+  "Srpski": "praznik",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "horror",
+  "Srpski": "strava",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "horse",
+  "Srpski": "konj",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "host",
+  "Srpski": "domaćin",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "husband",
+  "Srpski": "muž",
+  "Eng_len": 7,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "loan",
+  "Srpski": "zajam",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "mistake",
+  "Srpski": "greška",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "mountain",
+  "Srpski": "planina",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "nail",
+  "Srpski": "nokat",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "noise",
+  "Srpski": "buka",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "occasion",
+  "Srpski": "prilika",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "package",
+  "Srpski": "paket",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "patient",
+  "Srpski": "pacijent",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "pause",
+  "Srpski": "pauza",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "phrase",
+  "Srpski": "fraza",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "proof",
+  "Srpski": "dokaz",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "race",
+  "Srpski": "trka",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "relief",
+  "Srpski": "olakšanje",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "sand",
+  "Srpski": "pesak",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "sentence",
+  "Srpski": "rečenica",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "shoulder",
+  "Srpski": "rame",
+  "Eng_len": 8,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "smoke",
+  "Srpski": "dim",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "stomach",
+  "Srpski": "stomak",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "string",
+  "Srpski": "niz",
+  "Eng_len": 6,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "tourist",
+  "Srpski": "turista",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "towel",
+  "Srpski": "peškir",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "vacation",
+  "Srpski": "godišnji odmor",
+  "Eng_len": 8,
+  "Srpski_len": 14
+ },
+ {
+  "Eng": "west",
+  "Srpski": "zapad",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "wheel",
+  "Srpski": "točak",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "wine",
+  "Srpski": "vino",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "arm",
+  "Srpski": "ruka",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "bet",
+  "Srpski": "opklada",
+  "Eng_len": 3,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "blow",
+  "Srpski": "udarac",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "border",
+  "Srpski": "granica",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "branch",
+  "Srpski": "grana",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "breast",
+  "Srpski": "dojka",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "brother",
+  "Srpski": "brat",
+  "Eng_len": 7,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "buddy",
+  "Srpski": "drug",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "bunch",
+  "Srpski": "hrpa",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "chip",
+  "Srpski": "čip",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "coach",
+  "Srpski": "trener",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "cross",
+  "Srpski": "krst",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "document",
+  "Srpski": "dokument",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "draft",
+  "Srpski": "nacrt",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "dust",
+  "Srpski": "prašina",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "expert",
+  "Srpski": "stručnjak",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "floor",
+  "Srpski": "sprat",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "God",
+  "Srpski": "Bog",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "golf",
+  "Srpski": "golf",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "habit",
+  "Srpski": "navika",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "iron",
+  "Srpski": "gvožđe",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "judge",
+  "Srpski": "sudija",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "knife",
+  "Srpski": "nož",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "landscape",
+  "Srpski": "pejzaž",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "league",
+  "Srpski": "liga",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "mail",
+  "Srpski": "pošta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "mess",
+  "Srpski": "nered",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "native",
+  "Srpski": "domorodac",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "opening",
+  "Srpski": "otvaranje",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "parent",
+  "Srpski": "roditelj",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "pattern",
+  "Srpski": "šablon",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pool",
+  "Srpski": "bazen",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "pound",
+  "Srpski": "funta",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "request",
+  "Srpski": "zahtev",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "salary",
+  "Srpski": "plata",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "shame",
+  "Srpski": "sramota",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "shelter",
+  "Srpski": "sklonište",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "shoe",
+  "Srpski": "cipela",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "silver",
+  "Srpski": "srebro",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "tank",
+  "Srpski": "tenk",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "trust",
+  "Srpski": "poverenje",
+  "Eng_len": 5,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "bar",
+  "Srpski": "šipka",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bell",
+  "Srpski": "zvono",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "blame",
+  "Srpski": "krivica",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "boy",
+  "Srpski": "dečak",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "brick",
+  "Srpski": "cigla",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "chair",
+  "Srpski": "stolica",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "closet",
+  "Srpski": "ormar",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "clue",
+  "Srpski": "trag",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "collar",
+  "Srpski": "okovratnik",
+  "Eng_len": 6,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "comment",
+  "Srpski": "komentar",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "conference",
+  "Srpski": "konferencija",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "devil",
+  "Srpski": "đavo",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "diet",
+  "Srpski": "dijeta",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "fear",
+  "Srpski": "strah",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fuel",
+  "Srpski": "gorivo",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "glove",
+  "Srpski": "rukavica",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "jacket",
+  "Srpski": "jakna",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "lunch",
+  "Srpski": "ručak",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "monitor",
+  "Srpski": "monitor",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "mortgage",
+  "Srpski": "hipoteka",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "nurse",
+  "Srpski": "medicinska sestra",
+  "Eng_len": 5,
+  "Srpski_len": 17
+ },
+ {
+  "Eng": "pace",
+  "Srpski": "tempo",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "panic",
+  "Srpski": "panika",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "peak",
+  "Srpski": "vrhunac",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "plane",
+  "Srpski": "avion",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "reward",
+  "Srpski": "nagrada",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "row",
+  "Srpski": "red",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "sandwich",
+  "Srpski": "sendvič",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "shock",
+  "Srpski": "šok",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "spite",
+  "Srpski": "inat",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "spray",
+  "Srpski": "sprej",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "surprise",
+  "Srpski": "iznenađenje",
+  "Eng_len": 8,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "transition",
+  "Srpski": "prelaz",
+  "Eng_len": 10,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "weekend",
+  "Srpski": "vikend",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "welcome",
+  "Srpski": "dobrodošlica",
+  "Eng_len": 7,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "yard",
+  "Srpski": "dvorište",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "alarm",
+  "Srpski": "alarm",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bicycle",
+  "Srpski": "bicikl",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "bite",
+  "Srpski": "ujed",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "blind",
+  "Srpski": "slep",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "bottle",
+  "Srpski": "flaša",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cable",
+  "Srpski": "kabl",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "candle",
+  "Srpski": "sveća",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "clerk",
+  "Srpski": "službenik",
+  "Eng_len": 5,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "cloud",
+  "Srpski": "oblak",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "concert",
+  "Srpski": "koncert",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "counter",
+  "Srpski": "brojač",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "flower",
+  "Srpski": "cvet",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "grandfather",
+  "Srpski": "deda",
+  "Eng_len": 11,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "harm",
+  "Srpski": "šteta",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "knee",
+  "Srpski": "koleno",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "lawyer",
+  "Srpski": "advokat",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "leather",
+  "Srpski": "koža",
+  "Eng_len": 7,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "load",
+  "Srpski": "opterećenje",
+  "Eng_len": 4,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "mirror",
+  "Srpski": "ogledalo",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "neck",
+  "Srpski": "vrat",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "pension",
+  "Srpski": "penzija",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "plate",
+  "Srpski": "tanjir",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "ruin",
+  "Srpski": "propast",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "ship",
+  "Srpski": "brod",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "skirt",
+  "Srpski": "suknja",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "slice",
+  "Srpski": "kriška",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "snow",
+  "Srpski": "sneg",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "specialist",
+  "Srpski": "specijalista",
+  "Eng_len": 10,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "stroke",
+  "Srpski": "šlog",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "switch",
+  "Srpski": "prekidač",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "trash",
+  "Srpski": "smeće",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "tune",
+  "Srpski": "melodija",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "zone",
+  "Srpski": "zona",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "anger",
+  "Srpski": "bes",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "award",
+  "Srpski": "nagrada",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "bid",
+  "Srpski": "ponuda",
+  "Eng_len": 3,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "boot",
+  "Srpski": "čizma",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "bug",
+  "Srpski": "buba",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "camp",
+  "Srpski": "kamp",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "candy",
+  "Srpski": "slatkiš",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "carpet",
+  "Srpski": "tepih",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cat",
+  "Srpski": "mačka",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "champion",
+  "Srpski": "šampion",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "channel",
+  "Srpski": "kanal",
+  "Eng_len": 7,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "clock",
+  "Srpski": "sat",
+  "Eng_len": 5,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "comfort",
+  "Srpski": "udobnost",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "cow",
+  "Srpski": "krava",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "crack",
+  "Srpski": "pukotina",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "engineer",
+  "Srpski": "inženjer",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "entrance",
+  "Srpski": "ulaz",
+  "Eng_len": 8,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "fault",
+  "Srpski": "greška",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "grass",
+  "Srpski": "trava",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "hell",
+  "Srpski": "pakao",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "highlight",
+  "Srpski": "istaknuće",
+  "Eng_len": 9,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "incident",
+  "Srpski": "incident",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "island",
+  "Srpski": "ostrvo",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "joke",
+  "Srpski": "šala",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "jury",
+  "Srpski": "porota",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "leg",
+  "Srpski": "noga",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "lip",
+  "Srpski": "usna",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "motor",
+  "Srpski": "motor",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "nerve",
+  "Srpski": "živac",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "passage",
+  "Srpski": "prolaz",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "pen",
+  "Srpski": "hemijska olovka",
+  "Eng_len": 3,
+  "Srpski_len": 15
+ },
+ {
+  "Eng": "pride",
+  "Srpski": "ponos",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "priest",
+  "Srpski": "sveštenik",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "prize",
+  "Srpski": "nagrada",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "promise",
+  "Srpski": "obećanje",
+  "Eng_len": 7,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "resident",
+  "Srpski": "stanovnik",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "resort",
+  "Srpski": "odmaralište",
+  "Eng_len": 6,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "ring",
+  "Srpski": "prsten",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "roof",
+  "Srpski": "krov",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "rope",
+  "Srpski": "konopac",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "scheme",
+  "Srpski": "šema",
+  "Eng_len": 6,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "script",
+  "Srpski": "skripta",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "sock",
+  "Srpski": "čarapa",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "station",
+  "Srpski": "stanica",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "toe",
+  "Srpski": "nožni prst",
+  "Eng_len": 3,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "tower",
+  "Srpski": "toranj",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "truck",
+  "Srpski": "kamion",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "witness",
+  "Srpski": "svedok",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "you",
+  "Srpski": "ti",
+  "Eng_len": 3,
+  "Srpski_len": 2
+ },
+ {
+  "Eng": "it",
+  "Srpski": "to",
+  "Eng_len": 2,
+  "Srpski_len": 2
+ },
+ {
+  "Eng": "will",
+  "Srpski": "volja",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "if",
+  "Srpski": "ako",
+  "Eng_len": 2,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "one",
+  "Srpski": "jedan",
+  "Eng_len": 3,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "many",
+  "Srpski": "mnogo",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "most",
+  "Srpski": "većina",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "look",
+  "Srpski": "izgled",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "help",
+  "Srpski": "pomoć",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "being",
+  "Srpski": "biće",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "might",
+  "Srpski": "moć",
+  "Eng_len": 5,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "still",
+  "Srpski": "još uvek",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "public",
+  "Srpski": "javnost",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "read",
+  "Srpski": "čitati",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "keep",
+  "Srpski": "zadržati",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "start",
+  "Srpski": "početak",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "human",
+  "Srpski": "čovek",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "general",
+  "Srpski": "general",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "she",
+  "Srpski": "ona",
+  "Eng_len": 3,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "tonight",
+  "Srpski": "večeras",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "set",
+  "Srpski": "komplet",
+  "Eng_len": 3,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "change",
+  "Srpski": "promena",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "simple",
+  "Srpski": "jednostavno",
+  "Eng_len": 6,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "past",
+  "Srpski": "prošlost",
+  "Eng_len": 4,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "possibility",
+  "Srpski": "mogućnost",
+  "Eng_len": 11,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "today",
+  "Srpski": "danas",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "cut",
+  "Srpski": "posekotina",
+  "Eng_len": 3,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "second",
+  "Srpski": "sekunda",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "call",
+  "Srpski": "poziv",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "move",
+  "Srpski": "potez",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "individual",
+  "Srpski": "pojedinac",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "turn",
+  "Srpski": "red",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "guard",
+  "Srpski": "stražar",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "potential",
+  "Srpski": "potencijal",
+  "Eng_len": 9,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "professional",
+  "Srpski": "profesionalac",
+  "Eng_len": 12,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "travel",
+  "Srpski": "putovanje",
+  "Eng_len": 6,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "alternative",
+  "Srpski": "alternativa",
+  "Eng_len": 11,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "whole",
+  "Srpski": "celina",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "excuse",
+  "Srpski": "izgovor",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "commercial",
+  "Srpski": "reklama",
+  "Eng_len": 10,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "deal",
+  "Srpski": "dogovor",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "worth",
+  "Srpski": "vrednost",
+  "Eng_len": 5,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "necessity",
+  "Srpski": "neophodnost",
+  "Eng_len": 9,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "positivity",
+  "Srpski": "pozitivnost",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "search",
+  "Srpski": "pretraga",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "present",
+  "Srpski": "poklon",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "creativity",
+  "Srpski": "kreativnost",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "cost",
+  "Srpski": "trošak",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "support",
+  "Srpski": "podrška",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "return",
+  "Srpski": "povratak",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "complex",
+  "Srpski": "kompleks",
+  "Eng_len": 7,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "effectiveness",
+  "Srpski": "delotvornost",
+  "Eng_len": 13,
+  "Srpski_len": 12
+ },
+ {
+  "Eng": "reserve",
+  "Srpski": "rezerva",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "original",
+  "Srpski": "original",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "activity",
+  "Srpski": "aktivnost",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "break",
+  "Srpski": "pauza",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "negativity",
+  "Srpski": "negativnost",
+  "Eng_len": 10,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "safety",
+  "Srpski": "bezbednost",
+  "Eng_len": 6,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "stay",
+  "Srpski": "ostanak",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "visit",
+  "Srpski": "poseta",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "report",
+  "Srpski": "izveštaj",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "beyond",
+  "Srpski": "izvan",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "junior",
+  "Srpski": "junior",
+  "Eng_len": 6,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "uniqueness",
+  "Srpski": "jedinstvenost",
+  "Eng_len": 10,
+  "Srpski_len": 13
+ },
+ {
+  "Eng": "anything",
+  "Srpski": "bilo šta",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "classic",
+  "Srpski": "klasika",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "final",
+  "Srpski": "finale",
+  "Eng_len": 5,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "privacy",
+  "Srpski": "privatnost",
+  "Eng_len": 7,
+  "Srpski_len": 10
+ },
+ {
+  "Eng": "concern",
+  "Srpski": "zabrinutost",
+  "Eng_len": 7,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "official",
+  "Srpski": "zvaničnik",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "comfortability",
+  "Srpski": "udobnost",
+  "Eng_len": 14,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "gain",
+  "Srpski": "dobitak",
+  "Eng_len": 4,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "maybe",
+  "Srpski": "možda",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "richness",
+  "Srpski": "bogatstvo",
+  "Eng_len": 8,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "youth",
+  "Srpski": "mladost",
+  "Eng_len": 5,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "failure",
+  "Srpski": "neuspeh",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "heaviness",
+  "Srpski": "težina",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "lead",
+  "Srpski": "olovo",
+  "Eng_len": 4,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "listening",
+  "Srpski": "slušanje",
+  "Eng_len": 9,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "handle",
+  "Srpski": "ručka",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "meet",
+  "Srpski": "susret",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "ride",
+  "Srpski": "vožnja",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "secret",
+  "Srpski": "tajna",
+  "Eng_len": 6,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "spread",
+  "Srpski": "širenje",
+  "Eng_len": 6,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "spring",
+  "Srpski": "proleće",
+  "Eng_len": 6,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "toughness",
+  "Srpski": "tvrdoća",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "waiting",
+  "Srpski": "čekanje",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "display",
+  "Srpski": "prikaz",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "flow",
+  "Srpski": "tok",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "objective",
+  "Srpski": "zadatak",
+  "Eng_len": 9,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "shooting",
+  "Srpski": "pucanje",
+  "Eng_len": 8,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "touch",
+  "Srpski": "dodir",
+  "Eng_len": 5,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "chemistry",
+  "Srpski": "hemija",
+  "Eng_len": 9,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "cry",
+  "Srpski": "plač",
+  "Eng_len": 3,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "conflict",
+  "Srpski": "sukob",
+  "Eng_len": 8,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "fill",
+  "Srpski": "ispuna",
+  "Eng_len": 4,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "jump",
+  "Srpski": "skok",
+  "Eng_len": 4,
+  "Srpski_len": 4
+ },
+ {
+  "Eng": "kick",
+  "Srpski": "šut",
+  "Eng_len": 4,
+  "Srpski_len": 3
+ },
+ {
+  "Eng": "opposition",
+  "Srpski": "opozicija",
+  "Eng_len": 10,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "passion",
+  "Srpski": "strast",
+  "Eng_len": 7,
+  "Srpski_len": 6
+ },
+ {
+  "Eng": "abuse",
+  "Srpski": "zloupotreba",
+  "Eng_len": 5,
+  "Srpski_len": 11
+ },
+ {
+  "Eng": "burn",
+  "Srpski": "opekotina",
+  "Eng_len": 4,
+  "Srpski_len": 9
+ },
+ {
+  "Eng": "deposit",
+  "Srpski": "depozit",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "somewhere",
+  "Srpski": "negde",
+  "Eng_len": 9,
+  "Srpski_len": 5
+ },
+ {
+  "Eng": "advance",
+  "Srpski": "unapred",
+  "Eng_len": 7,
+  "Srpski_len": 7
+ },
+ {
+  "Eng": "anywhere",
+  "Srpski": "bilo gde",
+  "Eng_len": 8,
+  "Srpski_len": 8
+ },
+ {
+  "Eng": "fix",
+  "Srpski": "popravka",
+  "Eng_len": 3,
+  "Srpski_len": 8
+ }
+]
